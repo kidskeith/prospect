@@ -1,0 +1,25 @@
+[general]
+gpu-coin = "sigt"
+cpu-coin = "xmr"
+default-username = "4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRwomJGYVSUKMaznsGQ.GCP"
+default-password = "x"
+[pools.eth]
+url = "stratum+tcp://daggerhashimoto.eu.nicehash.com:3353/"
+
+[pools.sia]
+url = "stratum+tcp://sia.eu.nicehash.com:3360/"
+
+[pools.sigt]
+url = "stratum+tcp://sigt.suprnova.cc:7106/"
+username = "semtexzv.test"
+password = "test"
+
+[pools.xmr]
+url = "stratum+tcp://xmr-asia1.nanopool.org:14444/"
+[gpus.1-0]
+enabled = false
+label = "GeForce 810A"
+
+[cpu]
+enabled = true
+label = "CPU"

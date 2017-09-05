@@ -1,7 +1,7 @@
 [general]
 gpu-coin = "sigt"
 cpu-coin = "xmr"
-default-username = "4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRwomJGYVSUKMaznsGQ.GCP"
+default-username = "4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRwomJGYVSUKMaznsGQ.Prospector"
 default-password = "x"
 [pools.eth]
 url = "stratum+tcp://daggerhashimoto.eu.nicehash.com:3353/"
